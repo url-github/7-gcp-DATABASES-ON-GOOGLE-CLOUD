@@ -11,8 +11,12 @@ Keywords:
 [Istnieją 4 ścieżki możliwej repliki](https://cloud.google.com/sql/docs/mysql/replication)
 
 - Backups:
-  - [Automated backups]
+  - [Automated backups] co 24h w wybranym oknie 4h.
   - [On-demand backups czyli na żądanie](https://cloud.google.com/sql/docs/mysql/backup-recovery/backups#on-demand-backups)
+  
+- [Przywracanie instancji](https://cloud.google.com/sql/docs/mysql/backup-recovery/restore):
+  - Restore
+  - Point in time Restore
 
 
 
