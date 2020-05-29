@@ -11,8 +11,8 @@ Keywords:
 [Istnieją 4 ścieżki możliwej repliki](https://cloud.google.com/sql/docs/mysql/replication)
 
 - Backups:
-* Automated backups
-* On-demand backups
+  * Automated backups
+  * On-demand backups
 
 
 
