@@ -15,8 +15,8 @@ Keywords:
   - [On-demand backups czyli na żądanie](https://cloud.google.com/sql/docs/mysql/backup-recovery/backups#on-demand-backups)
   
 - [Przywracanie instancji](https://cloud.google.com/sql/docs/mysql/backup-recovery/restore):
-  - Restore
-  - Point in time Restore
+  - [Restoring an instance](https://cloud.google.com/sql/docs/mysql/backup-recovery/restoring)
+  - Point-in-time recovery pozwala cofnąć się do dowolnego momentu w czasie ostatnich 7 dni działania bazy.
 
 
 
