@@ -17,6 +17,10 @@ Keywords:
 - [Przywracanie instancji](https://cloud.google.com/sql/docs/mysql/backup-recovery/restore):
   - [Restoring an instance](https://cloud.google.com/sql/docs/mysql/backup-recovery/restoring)
   - Point-in-time recovery pozwala cofnąć się do dowolnego momentu w czasie ostatnich 7 dni działania bazy.
+  
+- Overview of the high availability configuration / Konfiguracja HA
+
+
 
 
 
