@@ -1,4 +1,6 @@
-# 7-2-Cloud SQL Concepts
+# 7-2-Cloud SQL Concepts 
+
+[Typy baz](https://cloud.google.com/products/databases)
 
 ```
 Scale insurance - ubezpieczenie na dużą skalę (możesz rozpocząć produkcję od małej instancji i nie musisz zmieniać architektury wraz z rozwojem aplikacji):
@@ -22,3 +24,9 @@ Data distrybution (zonal):
 - Firebase Realtime Database
 - Cloud Memorystore
 ```
+```
+Replica consistency (Spójność repliki) - strong / eventual
+Multi-primary
+Transactions (strong consistency)
+Joins and complex queries
+Ultra low latency (microsecond or single-digit ms)
