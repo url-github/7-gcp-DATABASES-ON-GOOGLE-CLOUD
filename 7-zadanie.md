@@ -1,5 +1,3 @@
-# 7-zadanie
-
 # [Zadanie domowe nr 7](https://szkolachmury.pl/google-cloud-platform-droga-architekta/tydzien-7-databases-on-google-cloud/zadanie-domowe-nr-7/)
 
 ## 1. Firma posiada jedną głowną bazę danych MySQL - jeden serwer dla danych użytkowników, inwentaryzacji, danych statycznych. Serwis ten jest głównym elementem, który ma zostać przeniesiony do środowiska w Google Cloud.
